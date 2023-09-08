@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="ColorRace - EmblemsDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ColorRace - MainForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ColorRace - NumberOfPlayers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ColorRace - playersColorDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ColorRace - Winner.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
